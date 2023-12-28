@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish-dheer-1a7312249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-dheer-1a7312249/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-dheer-1a7312249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-dheer-1a7312249/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23167477/ashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23167477/ashish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
