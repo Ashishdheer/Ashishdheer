@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Dheer</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishdheer&label=Profile%20views&color=0e75b6&style=flat" alt="ashishdheer" /> </p>
-
 - 🔭 I’m currently working on **Prediction Models**
 
 - 👯 I’m looking to collaborate on **AI & ML**
