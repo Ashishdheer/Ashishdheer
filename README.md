@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **AI & ML**
 
-- 💬 Ask me about **Python, Colab**
+- 💬 Ask me about **Python, Colab, Data Visualization & Analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
