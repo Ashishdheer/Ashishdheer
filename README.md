@@ -4,7 +4,6 @@
 
 
 
-
 - 🔭 I’m currently working on **Prediction Models**
 
 - 👯 I’m looking to collaborate on **AI & ML**
