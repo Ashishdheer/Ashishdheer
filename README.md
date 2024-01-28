@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashish Dheer</h1>
 <h3 align="center">A passionate developer, Student @National Institute of Technology, Mizoram <img width="27" src="https://www.nitmz.ac.in/images/Logo_NITMZ.png"> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishdheer&label=Profile%20views&color=0e75b6&style=flat" alt="ashishdheer" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishdheer" alt="ashishdheer" /></a> </p>
 
 
 - 🔭 I’m currently working on **Prediction Models**
