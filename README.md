@@ -4,14 +4,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishdheer" alt="ashishdheer" /></a> </p>
-
 
 - 🔭 I’m currently working on **Prediction Models**
 
 - 👯 I’m looking to collaborate on **AI & ML**
 
 - 💬 Ask me about **Python, Colab, Data Visualization & Analysis**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishdheer" alt="ashishdheer" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
