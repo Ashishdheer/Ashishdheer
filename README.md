@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Colab, Data Visualization & Analysis**
 
-<p align="left"> <img src="![](https://github-trophies.vercel.app/?username=Ashishdheer) /> </p>
+<p align="left"> <img src="![](https://github-trophies.vercel.app/?username=Ashishdheer)" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
